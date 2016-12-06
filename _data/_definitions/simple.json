@@ -1,5 +1,9 @@
 {
   "name": {
     "required": true
+  },
+   "gallery_image": {
+    "required": true,
+     "type": "image"
   }
 }
